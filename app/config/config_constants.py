@@ -1,0 +1,4 @@
+
+
+class CountryAPIConfigs:
+    CountryAPIBaseUrl = f"https://restcountries.com/v3.1/name/"
