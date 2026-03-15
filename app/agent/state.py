@@ -1,11 +1,16 @@
 from typing import TypedDict, List, Optional
 
 class AgentState(TypedDict):
-    question: str
-    country: Optional[str]
+    query: str
+    countries: Optional[List[str]]
     fields: Optional[List[str]]
-    api_data: Optional[dict]
+    api_data: Optional[List[CountryAPIData]]
     answer: Optional[str]
-    error: Optional[str]
+
+
+
+class CountryAPIData():
+    is_error:bool
+    data: dict|str
 
 

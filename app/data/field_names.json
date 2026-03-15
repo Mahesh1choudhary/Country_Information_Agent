@@ -1,0 +1,28 @@
+{
+  "capital": ["capital"],
+  "altSpellings": ["altSpellings", "altSpelling"],
+  "region": ["region", "regions"],
+  "subregion": ["subregion"],
+  "landlocked": ["landlocked"],
+  "area": ["area"],
+  "maps": ["maps"],
+  "population" : ["population"],
+  "fifa": ["fifa"],
+  "car": ["car", "cars"],
+  "timezones": ["timezones"],
+  "continents": ["continents", "continent"],
+  "flag": ["flag", "flags"],
+  "name": ["name", "common", "native", "official"],
+  "currencies": ["currencies", "currency"],
+  "languages" : ["language", "languages"],
+  "latlng": [ "latlng"],
+  "demonyms":[ "demonyms"],
+  "gini": ["gini"],
+  "flags": ["flags"],
+  "coatOfArms":[ "coatOfArms"],
+  "startOfWeek":["startOfWeek"],
+  "capitalInfo": ["capitalInfo"],
+  "postalCode": ["postalCode"]
+
+
+}
